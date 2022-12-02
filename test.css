@@ -1,0 +1,56 @@
+.main
+{
+display:flex;
+width:100%;
+}
+
+ .col-lg-5
+    {
+	     width:41.66%;
+		 
+	 }
+  .col-lg-6
+   {
+	  width:50%;
+	 
+   }
+   .col-lg-7
+   {
+	 width:58.33%;
+	 
+   }
+ h3
+ {
+	 color:blue;
+	 
+	 font-weight:bold;
+	 font-size:35px;
+	 margin-left:350px;
+ }
+ .ls
+ {
+	 margin-left:20px;
+ }
+ .para1
+ {
+	  height:500px;
+ }
+ .parag
+ {
+	 margin-left:100px;
+ }
+ Button
+ {
+	  margin-left:100px;
+	  padding:10px;
+	  color:blue;
+	  border-color:blue;
+	  
+	 
+ }
+hr
+{
+width:100px;
+margin-left:400px;
+margin-top:10px;
+}	
